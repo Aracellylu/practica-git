@@ -1,4 +1,4 @@
-# practica-git
+# titulo
 Primer repositorio creado en github
 
 ## descripción
